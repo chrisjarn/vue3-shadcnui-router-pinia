@@ -19,8 +19,8 @@ If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has a
 
 ## Installation
 
-npm install 
-npm run dev
+- npm install 
+- npm run dev
 
 ## Build
 
